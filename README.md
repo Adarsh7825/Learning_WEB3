@@ -248,10 +248,6 @@ graph TD
     class B1,B2,B3,C1,C2,C3,D1,D2,D3,E1,E2,E3,F1,F2,F3,G1,G2,G3,H1,H2,H3,I1,I2,I3,J1,J2,J3 detail;
 ```
 
-## Detailed Daily Schedule
-
-[Rest of the content remains the same...]
-
 ## Additional Resources
 
 ### Development Tools
@@ -341,21 +337,6 @@ graph TD
 4. [Solana Devnet](https://docs.solana.com/cluster/devnet)
 5. [Rust Playground](https://play.rust-lang.org/)
 
-## Getting Started
-
-1. Clone this repository
-2. Install required dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up development environment:
-   - Install Node.js
-   - Install Rust
-   - Install Solana CLI
-   - Set up MetaMask
-4. Follow the daily schedule
-5. Complete exercises and projects
-6. Join community discussions
 
 ## Contributing
 
